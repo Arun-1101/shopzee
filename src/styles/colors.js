@@ -1,0 +1,1 @@
+export const primaryGrey='#2C3639'
